@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.1",
+  "releaseNotes": "新增版本检查与下载入口；新增加密数据导入/导出，便于更换电脑时迁移商品和设置。",
+  "downloadUrl": "https://wwaqf.lanzout.com/iH1GK4gp3r4f"
+}
