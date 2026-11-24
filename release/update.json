@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.5",
-  "releaseNotes": "补货规格监控、京东地区与登录态、加密数据导入导出、系统通知与自选铃声，并完善 WebView2 引导。蓝奏云提取码：afgs。",
+  "version": "0.1.7",
+  "releaseNotes": "新增发现新版时的更新弹窗，显示当前与最新版本及更新说明，可稍后查看或打开下载页面。蓝奏云文件夹持续沿用，提取码：afgs。",
   "downloadUrl": "https://wwaqf.lanzout.com/b037cxcire"
 }
