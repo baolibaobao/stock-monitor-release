@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.2",
-  "releaseNotes": "修复 KeyDock 客户端 DLL 版本锁定，恢复 15 分钟基准心跳与租约续期。",
-  "downloadUrl": "https://wwaqf.lanzout.com/iKogp4gpj53i"
+  "version": "0.1.5",
+  "releaseNotes": "补货规格监控、京东地区与登录态、加密数据导入导出、系统通知与自选铃声，并完善 WebView2 引导。蓝奏云提取码：afgs。",
+  "downloadUrl": "https://wwaqf.lanzout.com/b037cxcire"
 }
