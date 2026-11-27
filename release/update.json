@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.7",
-  "releaseNotes": "新增发现新版时的更新弹窗，显示当前与最新版本及更新说明，可稍后查看或打开下载页面。蓝奏云文件夹持续沿用，提取码：afgs。",
+  "version": "0.1.9",
+  "releaseNotes": "补货监控 0.1.9：强化授权状态与租约校验，改进心跳续期安全边界，并加强受保护操作在授权失效时的拒绝处理。下载后解压覆盖程序文件即可，原有数据保留。蓝奏云文件夹提取码：afgs。",
   "downloadUrl": "https://wwaqf.lanzout.com/b037cxcire"
 }
